@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.uniq.fluid.links",
+      "sha256_cert_fingerprints": [
+        "6B:A4:07:24:DB:5D:D9:CF:7C:A5:CD:63:6E:C9:B3:B3:B6:C6:86:C6:2E:F8:00:0E:07:77:8D:25:DF:63:BD:6B"
+      ]
+    }
+  }
+]
